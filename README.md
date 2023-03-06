@@ -1,4 +1,4 @@
-# Moroccan Arabic Datasets and Corpora
+# Moroccan NLP Datasets and Corpora
 
 This is a collection of datasets for the Moroccan Arabic dialect, and corpora of Moroccan contents, aimed at researchers and developers working on natural language processing (NLP) tasks such as machine translation, Text Summarization, sentiment analysis, and named entity recognition.
 
