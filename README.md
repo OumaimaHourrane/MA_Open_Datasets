@@ -2,7 +2,7 @@
 
 This is a collection of datasets for the Moroccan Arabic dialect, and corpora of Moroccan contents, aimed at researchers and developers working on natural language processing (NLP) tasks such as machine translation, text summarization, sentiment analysis, and named entity recognition.
 
-The repository includes several datasets gathered from various sources, such as social media platforms, news websites, e-commerce websites, and public domain texts. The data has been preprocessed and annotated to facilitate its use in NLP tasks, and each dataset comes with a README file that describes its contents, format, and provenance.
+The repository includes several datasets gathered from various sources, such as social media platforms, news websites, e-commerce websites, and public domain texts. The data has been preprocessed and annotated to facilitate its use in NLP tasks, and each dataset comes with a README file that describes its contents, format, and citable source (if any).
 
 The corpora included in this repository cover a range of topics and domains, including politics, sports, culture, and religion. They are designed to provide a representative sample of Moroccan content (usually written in other languages such as Arabic, English and French) and its usage in different contexts.
 
